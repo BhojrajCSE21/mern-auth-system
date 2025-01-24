@@ -17,7 +17,7 @@ A User Authentication System built with the MERN stack (MongoDB, Express, React,
 ### Frontend
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mern-auth-app.git
+   git clone https://github.com/BhojrajCSE21/mern-auth-system.git
    cd mern-auth-app
    npm install
    npm run dev
@@ -26,7 +26,7 @@ A User Authentication System built with the MERN stack (MongoDB, Express, React,
 ### Backend
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/yourusername/mern-auth-backend.git
+   git clone https://github.com/BhojrajCSE21/mern-auth-system.git
    cd mern-auth-backend
    npm install
    ```
