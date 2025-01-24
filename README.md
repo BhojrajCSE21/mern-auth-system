@@ -48,6 +48,4 @@ A User Authentication System built with the MERN stack (MongoDB, Express, React,
   - `POST /api/login`: For logging in.
   - `GET /api/me`: For accessing protected user details (requires a valid JWT).
 
-- Access the protected dashboard after logging in.
 
-## License
